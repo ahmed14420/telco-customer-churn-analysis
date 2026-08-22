@@ -34,7 +34,7 @@ The result is a complete analytics package: a 6-page interactive **Power BI dash
 
 | Executive Overview | Customer Demographics |
 |---|---|
-| ![Executive Overview](./screenshots/executive_overview.png) | ![Customer Demographics](./screenshots/customer_demographics.png) |
+| ![Executive Overview](https://github.com/ahmed14420/telco-customer-churn-analysis/blob/main/Excutive%20Overview.jpg) | ![Customer Demographics](./screenshots/customer_demographics.png) |
 
 | Services & Contract Analysis | Financial Impact |
 |---|---|
