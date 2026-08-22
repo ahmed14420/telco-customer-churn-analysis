@@ -157,7 +157,7 @@ jupyter notebook Telco_Customer_Churn_Organized_EN_v2.ipynb
 
 ## 📬 Contact
 
-If you'd like to discuss this project, feel free to reach out via [LinkedIn](linkedin.com/in/ahmed-soliman-b9ba062b1) or open an issue in this repository.
+If you'd like to discuss this project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-soliman-b9ba062b1/) or open an issue in this repository.
 
 ---
 
