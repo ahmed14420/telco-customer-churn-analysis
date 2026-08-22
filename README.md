@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **[🔗 Live Interactive Dashboard](https://app.powerbi.com/links/JyLEMT_EZG?ctid=19fe7ed7-01ca-4ae6-9cb4-3d75b5264420&pbi_source=linkShare)** &nbsp;•&nbsp;
-**[📓 Jupyter Notebook](./Telco_Customer_Churn_Organized_EN_v2.ipynb)** &nbsp;•&nbsp;
+**[📓 Jupyter Notebook](https://github.com/ahmed14420/telco-customer-churn-analysis/blob/main/Telco_Customer_Churn.ipynb)** &nbsp;•&nbsp;
 **[📄 Insights & Recommendations (PDF)](./Telco_Churn_Insights_Recommendations.pdf)**
 
 </div>
