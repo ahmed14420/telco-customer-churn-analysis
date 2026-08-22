@@ -34,7 +34,7 @@ The result is a complete analytics package: a 6-page interactive **Power BI dash
 
 | Executive Overview | Customer Demographics |
 |---|---|
-| ![Executive Overview](./screenshots/executive_overview.png).png) | ![Customer Demographics](./screenshots/customer_demographics.png) |
+| ![Executive Overview](./screenshots/executive_overview.png) | ![Customer Demographics](./screenshots/customer_demographics.png) |
 
 | Services & Contract Analysis | Financial Impact |
 |---|---|
