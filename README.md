@@ -34,15 +34,15 @@ The result is a complete analytics package: a 6-page interactive **Power BI dash
 
 | Executive Overview | Customer Demographics |
 |---|---|
-| ![Executive Overview](./screenshots/executive_overview.png) | ![Customer Demographics](./screenshots/customer_demographics.png) |
+| ![Executive Overview](./Screenshots/Executive%20Overview.jpg) | ![Customer Demographics](./Screenshots/Customer%20Demographics%20%26%20Churn%20Drivers.jpg) |
 
 | Services & Contract Analysis | Financial Impact |
 |---|---|
-| ![Services & Contract](./screenshots/services_contract.png) | ![Financial Impact](./screenshots/financial_impact.png) |
+| ![Services & Contract](./Screenshots/Services%20%26%20Contract%20Analysis.jpg) | ![Financial Impact](./Screenshots/Financial%20Impact.jpg) |
 
 | Geographic Analysis | Churn Reasons |
 |---|---|
-| ![Geographic Analysis](./screenshots/geographic_analysis.png) | ![Churn Reasons](./screenshots/churn_reasons.png) |
+| ![Geographic Analysis](./Screenshots/Geographic%20Analysis.jpg) | ![Churn Reasons](./Screenshots/Churn%20Reasons.jpg) |
 
 > 💡 Add your dashboard screenshots to a `/screenshots` folder in the repo with the file names above so the images render correctly on GitHub.
 
